@@ -1,0 +1,32 @@
+{
+  "name": "@wiopriph/nuxt3-stylelint-config",
+  "version": "1.0.0",
+  "description": "StyleLint config",
+  "main": "src/index.js",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src/index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:wiopriph/nuxt3-stylelint-config.git"
+  },
+  "keywords": [
+    "nuxt",
+    "stylelint-config"
+  ],
+  "dependencies": {
+    "stylelint": "15.11.0",
+    "stylelint-config-rational-order": "0.1.2",
+    "stylelint-config-recommended": "11.0.0",
+    "stylelint-config-recommended-scss": "9.0.1",
+    "stylelint-config-recommended-vue": "1.5.0",
+    "stylelint-order": "6.0.4",
+    "stylelint-scss": "4.7.0"
+  }
+}
